@@ -1,2 +1,2 @@
-# data_camp_hands_on_project
+# DataCamp Hand-Ons Project
 To collect all project base notebook from DataCamp
